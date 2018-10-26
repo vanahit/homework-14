@@ -51,7 +51,6 @@ input {
 .converted-amd, .select {
 	max-width: 20vw;
 	margin-left: 10px;
-	
 }
 .converted-amd span {
 	display: inline-block;
@@ -59,14 +58,14 @@ input {
 	word-wrap: break-word;
 }
 .label {
-	width: 155px;
+	width: 154px;
 	text-align: center;
 	margin-bottom: 5px;
 	color: #a261c2;
 	font-size: 14px;
 }
 .currency-value {
-	width: 155px;
+	width: 154px;
 	margin-top: 10px;
 	font-size: 14px;
 	font-style: italic;
